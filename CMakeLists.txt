@@ -281,5 +281,7 @@ IF(COMPILER_SUPPORT)
     )
 ENDIF(COMPILER_SUPPORT)
 
+install(TARGETS mojoshader)
+
 # End of CMakeLists.txt ...
 
